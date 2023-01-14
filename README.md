@@ -37,8 +37,8 @@
 
 <h3> Here is a screenshot of my protfolio, open and enjoy reading. </h3>
 <div style="margin:auto">
-<img src="images/hi.png" alt="logo" width="140"  height="auto" />
-<img src="images/MyRecentWork.png" alt="logo" width="140"  height="auto" />
+<img src="images/Hi.png" alt="logo" width="140"  height="auto" />
+<img src="images/myRecentWork.png" alt="logo" width="140"  height="auto" />
 <img src="images/projects.png" alt="logo" width="140"  height="auto" />
 <img src="images/aboutme.png" alt="logo" width="140"  height="auto" />
 <img src="images/items.png" alt="logo" width="140"  height="auto" />
