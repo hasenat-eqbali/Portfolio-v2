@@ -37,7 +37,11 @@
 
 <h3> Here is a screenshot of my protfolio, open and enjoy reading. </h3>
 <div style="margin:auto">
-<img src="images/index.png" alt="logo" width="140"  height="auto" />
+<img src="images/hi.png" alt="logo" width="140"  height="auto" />
+<img src="images/MyRecentWork.png" alt="logo" width="140"  height="auto" />
+<img src="images/projects.png" alt="logo" width="140"  height="auto" />
+<img src="images/aboutme.png" alt="logo" width="140"  height="auto" />
+<img src="images/items.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
 </a>
@@ -81,7 +85,6 @@ Clone this repository to your desired folder:
 
 I Will add these section in my portfolio 2nd version:
 
-- [ ] **[About Me]**
 - [ ] **[Contact Me]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
