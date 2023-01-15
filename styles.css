@@ -136,6 +136,7 @@ table {
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Poppins&family=Roboto:wght@700&family=Sofia+Sans:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@700&family=Sofia+Sans:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter&family=Poppins&family=Roboto:wght@700&family=Sofia+Sans:wght@200&display=swap');
+
 .container {
   display: flex;
   justify-content: space-between;
@@ -454,6 +455,7 @@ hr {
 .buttom-h1 {
   margin-top: 0;
 }
+
 .crnr-img {
   position: relative !important;
   left: 12% !important;
