@@ -145,6 +145,7 @@ table {
   width: 330px;
   height: 30px;
   padding: 12px 30px;
+  z-index: 20;
 }
 
 .container img {
