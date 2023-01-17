@@ -540,36 +540,16 @@ hr {
 
 /* Form validation code by Imran */
 
-.contact-form input {
-  outline: none;
+#name:valid,
+#email:valid,
+#msg:valid {
+  box-shadow: 0 0 5px 1px hsl(155, 54%, 42%);
+  border: 1px solid hsla(120, 100%, 25%, 0.506);
 }
 
-input[type=text]:invalid:focus {
-  background-color: pink;
-  border: 1px solid red;
-}
-
-input[type=email]:invalid:focus {
-  background-color: pink;
-  border: 1px solid red;
-}
-
-input[type=text]:valid:focus {
-  background-color: white;
-  border: 1px solid green;
-}
-
-input[type=email]:valid:focus {
-  background-color: white;
-  border: 1px solid green;
-}
-
-input[type=text]:focus {
-  background-color: lightgreen;
-  border: 1px solid green;
-}
-
-input[type=email]:focus {
-  background-color: lightgreen;
-  border: 1px solid green;
+#name:focus:invalid,
+#email:focus:invalid,
+#msg:focus:invalid {
+  box-shadow: 0 0 5px 1px hsl(0, 100%, 50%);
+  border: 1px solid hsla(0, 100%, 50%, 0.48);
 }
