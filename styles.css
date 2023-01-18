@@ -476,9 +476,14 @@ hr {
   display: flex;
   flex-direction: column;
   align-items: center;
-
-  /* width: 327px; */
   margin: 120px 24px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: center;
 }
 
 .contact-form h2 {
@@ -491,10 +496,10 @@ hr {
 }
 
 .contact-form input {
-  margin: 73px 40px 39px 40px;
+  margin: 73px 20px 39px 0;
   border: none;
   border-bottom: 1px solid #979493 !important;
-  width: 80%;
+  width: 90%;
   padding: 15px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -507,7 +512,7 @@ hr {
 .contact-form textarea {
   background-color: #fbf8f7;
   padding: 12px;
-  width: 80%;
+  width: 90%;
   color: gray;
   border: none;
 }
@@ -526,7 +531,7 @@ hr {
   font-size: 17px;
   line-height: 24px;
   color: #fff;
-  margin-top: 36px;
+  margin: 36px auto 0 auto;
 }
 
 .contact-form hr {
@@ -540,16 +545,23 @@ hr {
 
 /* Form validation code by Imran */
 
-#name:valid,
-#email:valid,
-#msg:valid {
-  box-shadow: 0 0 5px 1px hsl(155, 54%, 42%);
-  border: 1px solid hsla(120, 100%, 25%, 0.506);
+input[type=text]:invalid:focus,
+input[type=email]:invalid:focus {
+  background-color: pink;
+  border: 1px solid red;
+  outline: none;
 }
 
-#name:focus:invalid,
-#email:focus:invalid,
-#msg:focus:invalid {
-  box-shadow: 0 0 5px 1px hsl(0, 100%, 50%);
-  border: 1px solid hsla(0, 100%, 50%, 0.48);
+input[type=text]:valid:focus,
+input[type=email]:valid:focus {
+  background-color: white;
+  border: 1px solid green;
+}
+
+.contact-form button:hover {
+  background-color: lightsalmon;
+}
+
+.contact-form button:active {
+  background-color: red;
 }
