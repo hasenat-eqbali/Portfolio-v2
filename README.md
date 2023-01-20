@@ -37,11 +37,12 @@
 
 <h3> Here is a screenshot of my protfolio, open and enjoy reading. </h3>
 <div style="margin:auto">
-<img src="images/Hi.png" alt="logo" width="140"  height="auto" />
-<img src="images/myRecentWork.png" alt="logo" width="140"  height="auto" />
-<img src="images/projects.png" alt="logo" width="140"  height="auto" />
-<img src="images/aboutme.png" alt="logo" width="140"  height="auto" />
-<img src="images/items.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot2.png" alt="logo" width="140"  height="auto" />
+<img src="mages/shots/shot3.png" alt="logo" width="140"  height="auto" />
+<img src="mages/shots/shot4.png" alt="logo" width="140"  height="auto" />
+<img src="mages/shots/shot5.png" alt="logo" width="140"  height="auto" />
+<img src="mages/shots/shot6.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
 </a>
