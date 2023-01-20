@@ -39,10 +39,10 @@
 <div style="margin:auto">
 <img src="images/shots/shot.png" alt="logo" width="140"  height="auto" />
 <img src="images/shots/shot2.png" alt="logo" width="140"  height="auto" />
-<img src="mages/shots/shot3.png" alt="logo" width="140"  height="auto" />
-<img src="mages/shots/shot4.png" alt="logo" width="140"  height="auto" />
-<img src="mages/shots/shot5.png" alt="logo" width="140"  height="auto" />
-<img src="mages/shots/shot6.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot3.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot4.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot5.png" alt="logo" width="140"  height="auto" />
+<img src="images/shots/shot6.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
 </a>
