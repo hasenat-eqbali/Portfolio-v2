@@ -439,19 +439,26 @@ hr {
   line-height: 20px;
 }
 
-.first-project {
-  background-image: url('images/MaskGroupIMG.png');
+.card2 {
+  background-image: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url('images/MaskGroupIMG.png');
   background-size: 100%;
   background-repeat: no-repeat;
-  padding-top: 5%;
 }
 
-.first-project ~ .project {
-  padding-bottom: 5%;
+.card2 #btn {
+  visibility: hidden;
 }
 
-.card2 {
-  background-image: url('images/grid-img-.png');
+.card2:hover {
+  background-image: url('images/MaskGroupIMG.png');
+}
+
+.card2:hover #btn {
+  visibility: visible;
+}
+
+.card2:hover .card-content {
+  visibility: hidden;
 }
 
 .card3 {
