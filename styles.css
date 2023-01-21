@@ -446,7 +446,7 @@ hr {
   padding-top: 5%;
 }
 
-.first-project~.project {
+.first-project ~ .project {
   padding-bottom: 5%;
 }
 
