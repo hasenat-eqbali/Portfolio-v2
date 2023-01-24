@@ -294,7 +294,7 @@ hr {
   padding-left: 8%;
 }
 
-.multi-post-stories h1 {
+.multi-post-stories h2 {
   font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -485,7 +485,7 @@ hr {
   width: 100%;
 }
 
-.about-me h1 {
+.about-me h2 {
   font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -522,7 +522,7 @@ hr {
   margin-top: 24px;
 }
 
-.about-me-buttom h1 {
+.about-me-buttom h2 {
   font-family: 'InaiMathi', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -604,7 +604,7 @@ hr {
 
 .contact-form input[type="text"],
 .contact-form input[type="email"] {
-  margin: 73px 20px 39px 0;
+  margin: 73px 0 39px 0;
   border: none;
   border-bottom: 1px solid #979493 !important;
   width: 40%;
@@ -634,6 +634,10 @@ hr {
   color: #091e42;
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
+}
+
+label {
+  visibility: hidden;
 }
 
 input[type=text]:invalid:focus,
