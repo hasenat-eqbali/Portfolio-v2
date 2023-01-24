@@ -604,7 +604,7 @@ hr {
 
 .contact-form input[type="text"],
 .contact-form input[type="email"] {
-  margin: 73px 0px 39px 0;
+  margin: 73px 0 39px 0;
   border: none;
   border-bottom: 1px solid #979493 !important;
   width: 40%;
@@ -635,9 +635,11 @@ hr {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
-label{
+
+label {
   visibility: hidden;
 }
+
 input[type=text]:invalid:focus,
 input[type=email]:invalid:focus {
   background-color: pink;
