@@ -35,16 +35,10 @@
 
 ## 🚀 Live Demo <a name="live-demo">
 
-<h3> Here is a screenshot of my protfolio, open and enjoy reading. </h3>
-<div style="margin:auto">
-<img src="images/Hi.png" alt="logo" width="140"  height="auto" />
-<img src="images/myRecentWork.png" alt="logo" width="140"  height="auto" />
-<img src="images/projects.png" alt="logo" width="140"  height="auto" />
-<img src="images/aboutme.png" alt="logo" width="140"  height="auto" />
-<img src="images/items.png" alt="logo" width="140"  height="auto" />
-  <br/>
-</div>
-</a>
+<h3> Here you can see  the project. </h3>
+
+<a href="https://hasenat-eqbali.github.io/Portfolio-v2/">https://hasenat-eqbali.github.io/Portfolio-v2/</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
