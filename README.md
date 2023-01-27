@@ -52,7 +52,7 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-<div style="position: relative; padding-bottom: 48.958333333333336%; height: 0;"><iframe src="https://www.loom.com/embed/4271f7bbd55f4e69be5a5050f4adb199" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
