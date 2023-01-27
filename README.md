@@ -51,6 +51,8 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+Project outline =>>
+https://www.loom.com/share/4271f7bbd55f4e69be5a5050f4adb199
 
 To get a local copy up and running, follow these steps.
 
